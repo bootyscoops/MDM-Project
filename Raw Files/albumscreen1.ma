@@ -1,0 +1,10 @@
+0:autodisable=false;
+1:if(sf.g1==1){storage="first.ks";target="*gshow1";}
+2:if(sf.g2==1){storage="first.ks";target="*gshow2";}
+3:if(sf.g3==1){storage="first.ks";target="*gshow3";}
+4:if(sf.g4==1){storage="first.ks";target="*gshow4";}
+5:if(sf.g5==1){storage="first.ks";target="*gshow5";}
+6:if(sf.g6==1){storage="first.ks";target="*gshow6";}
+7:if(sf.g7==1){storage="first.ks";target="*gshow7";}
+8:if(sf.g8==1){storage="first.ks";target="*gshow8";}
+9:if(sf.g9==1){storage="first.ks";target="*gshow9";}
