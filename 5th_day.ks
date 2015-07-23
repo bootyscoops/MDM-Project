@@ -443,7 +443,7 @@ but i don't see 'em that much."[br]
 ;•\îE•¶ŒáÎ‚İ
 [cara_rf storage="bungo_emi"]
 
-[font color=0xe1c65e]Bungo[resetfont] "Gahahaha, you're not wrong there."[br]
+[font color=0xe1c65e]Bungo[resetfont] "Gahahaha, I know what you mean."[br]
 [er]
 
 [kousuke_lf storage="kousuke_raku"]
